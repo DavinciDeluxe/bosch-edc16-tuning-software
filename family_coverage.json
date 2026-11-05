@@ -1,0 +1,624 @@
+{
+  "family": "Bosch EDC16",
+  "slug": "bosch-edc16",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "official_url": "https://www.davincideluxe.fr/bosch-edc16-tuning-software",
+  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "matched_variants_count": 482,
+  "brands": {
+    "BMW": [
+      "EDC16+C35",
+      "EDC16C1",
+      "EDC16C31",
+      "EDC16CP35",
+      "EDC16CP39",
+      "EDC16XY"
+    ],
+    "MINI": [
+      "EDC16C1",
+      "EDC16C31",
+      "EDC16C35",
+      "EDC16CP35",
+      "EDC16CP39"
+    ],
+    "FIAT": [
+      "EDC16C31-CP31",
+      "EDC16C34",
+      "EDC16C39",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16U31",
+      "EDC16V2"
+    ],
+    "ALFA ROMEO": [
+      "EDC16C31-CP31",
+      "EDC16C34",
+      "EDC16C39",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16U31",
+      "EDC16V2"
+    ],
+    "LANCIA": [
+      "EDC16C31-CP31",
+      "EDC16C34",
+      "EDC16C39",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16U31",
+      "EDC16V2"
+    ],
+    "JEEP": [
+      "EDC16+ U31",
+      "EDC16C31-CP31",
+      "EDC16C34",
+      "EDC16C39",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16U34",
+      "EDC16V2"
+    ],
+    "ABARTH": [
+      "EDC16C39"
+    ],
+    "CHRYSLER": [
+      "EDC16+ U31",
+      "EDC16C31-CP31",
+      "EDC16C34",
+      "EDC16C39",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16U34",
+      "EDC16V2"
+    ],
+    "RAM": [
+      "EDC16C31-CP31",
+      "EDC16C34",
+      "EDC16C39",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16U31",
+      "EDC16V2"
+    ],
+    "FORD": [
+      "EDC16C2",
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C34",
+      "EDC16C7",
+      "EDC16CP39"
+    ],
+    "HONDA": [
+      "EDC16C1-7",
+      "EDC16C31",
+      "EDC16C31-C7",
+      "EDC16C7"
+    ],
+    "HYUNDAI": [
+      "EDC16C39",
+      "EDC16CP34"
+    ],
+    "KIA": [
+      "EDC16C39",
+      "EDC16CP34"
+    ],
+    "LAND ROVER": [
+      "EDC16CP39"
+    ],
+    "JAGUAR": [
+      "EDC16CP39"
+    ],
+    "MAZDA": [
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C34",
+      "EDC16C7"
+    ],
+    "MERCEDES-BENZ": [
+      "EDC16C0",
+      "EDC16C2",
+      "EDC16C31-CP31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C6",
+      "EDC16CP3",
+      "EDC16CP36"
+    ],
+    "SMART": [
+      "EDC16C0",
+      "EDC16C2",
+      "EDC16C31",
+      "EDC16C31-C32",
+      "EDC16C31-CP31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C6",
+      "EDC16CP3",
+      "EDC16CP31",
+      "EDC16CP36"
+    ],
+    "MAYBACH": [
+      "EDC16C0",
+      "EDC16C2",
+      "EDC16C31-CP31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C6",
+      "EDC16CP3",
+      "EDC16CP36"
+    ],
+    "MITSUBISHI": [
+      "EDC16C31",
+      "EDC16C34",
+      "EDC16CP3",
+      "EDC16CP39",
+      "EDC16U31"
+    ],
+    "OPEL": [
+      "EDC16C3",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C9",
+      "EDC16CP33"
+    ],
+    "CHEVROLET": [
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C42",
+      "EDC16C9",
+      "EDC16CP33"
+    ],
+    "VAUXHALL": [
+      "EDC16C3",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C9",
+      "EDC16CP33"
+    ],
+    "PEUGEOT": [
+      "EDC16C0",
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16CP34",
+      "EDC16CP36",
+      "EDC16CP39",
+      "EDC16U31"
+    ],
+    "CITROËN": [
+      "EDC16C0",
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C39",
+      "EDC16CP34",
+      "EDC16CP36",
+      "EDC16CP39",
+      "EDC16U31"
+    ],
+    "DS": [
+      "EDC16C0",
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C39",
+      "EDC16CP34",
+      "EDC16CP36",
+      "EDC16CP39",
+      "EDC16U31"
+    ],
+    "RENAULT": [
+      "EDC16C3",
+      "EDC16C36",
+      "EDC16C41",
+      "EDC16CP33",
+      "EDC16CP42"
+    ],
+    "DACIA": [
+      "EDC16C3",
+      "EDC16C36",
+      "EDC16C41",
+      "EDC16CP33",
+      "EDC16CP42"
+    ],
+    "NISSAN": [
+      "EDC16C3",
+      "EDC16C36",
+      "EDC16C41",
+      "EDC16CP33",
+      "EDC16CP34",
+      "EDC16CP42"
+    ],
+    "INFINITI": [
+      "EDC16C3",
+      "EDC16C36",
+      "EDC16C41",
+      "EDC16CP33",
+      "EDC16CP42"
+    ],
+    "ALPINE": [
+      "EDC16C3",
+      "EDC16C36",
+      "EDC16C41",
+      "EDC16CP33",
+      "EDC16CP42"
+    ],
+    "SUZUKI": [
+      "EDC16C3",
+      "EDC16C34",
+      "EDC16C36",
+      "EDC16C39"
+    ],
+    "TOYOTA": [
+      "EDC16C10",
+      "EDC16C31"
+    ],
+    "LEXUS": [
+      "EDC16C10",
+      "EDC16C31"
+    ],
+    "VOLKSWAGEN": [
+      "EDC16+",
+      "EDC16+ CP34",
+      "EDC16C0",
+      "EDC16C1",
+      "EDC16C10",
+      "EDC16C2",
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C35",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C4",
+      "EDC16C7",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16CP31",
+      "EDC16CP35",
+      "EDC16CP36",
+      "EDC16CP39",
+      "EDC16CP42",
+      "EDC16U-2.1",
+      "EDC16U1",
+      "EDC16U2",
+      "EDC16U3",
+      "EDC16U31",
+      "EDC16U31-34",
+      "EDC16U31-U34",
+      "EDC16U31_CAN",
+      "EDC16U34",
+      "EDC16U3X",
+      "EDC16UC40",
+      "EDC16V2"
+    ],
+    "AUDI": [
+      "EDC16+ CP34",
+      "EDC16+ U31-U34",
+      "EDC16C0",
+      "EDC16C1",
+      "EDC16C10",
+      "EDC16C2",
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C35",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C4",
+      "EDC16C7",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16CAN",
+      "EDC16CP31",
+      "EDC16CP34",
+      "EDC16CP35",
+      "EDC16CP36",
+      "EDC16CP39",
+      "EDC16CP42",
+      "EDC16U-2.1",
+      "EDC16U1",
+      "EDC16U2",
+      "EDC16U3",
+      "EDC16U31",
+      "EDC16U34",
+      "EDC16U3X",
+      "EDC16UC40",
+      "EDC16V2"
+    ],
+    "SEAT": [
+      "EDC16+ CP34",
+      "EDC16C0",
+      "EDC16C1",
+      "EDC16C10",
+      "EDC16C2",
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C35",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C4",
+      "EDC16C7",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16CAN",
+      "EDC16CP31",
+      "EDC16CP35",
+      "EDC16CP36",
+      "EDC16CP39",
+      "EDC16CP42",
+      "EDC16U1",
+      "EDC16U2",
+      "EDC16U2.1",
+      "EDC16U3",
+      "EDC16U31",
+      "EDC16U34",
+      "EDC16U3X",
+      "EDC16UC40",
+      "EDC16V2"
+    ],
+    "SKODA": [
+      "EDC16+ CP34",
+      "EDC16+ U31",
+      "EDC16+ U31-U3",
+      "EDC16+ U31-U34",
+      "EDC16C0",
+      "EDC16C1",
+      "EDC16C10",
+      "EDC16C2",
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C35",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C4",
+      "EDC16C7",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16CAN",
+      "EDC16CP31",
+      "EDC16CP35",
+      "EDC16CP36",
+      "EDC16CP39",
+      "EDC16CP42",
+      "EDC16U1",
+      "EDC16U2",
+      "EDC16U2.1",
+      "EDC16U3",
+      "EDC16U34",
+      "EDC16UC40",
+      "EDC16V2"
+    ],
+    "CUPRA": [
+      "EDC16+ CP34",
+      "EDC16C0",
+      "EDC16C1",
+      "EDC16C10",
+      "EDC16C2",
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C35",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C4",
+      "EDC16C7",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16CAN",
+      "EDC16CP31",
+      "EDC16CP35",
+      "EDC16CP36",
+      "EDC16CP39",
+      "EDC16CP42",
+      "EDC16U1",
+      "EDC16U2",
+      "EDC16U2.1",
+      "EDC16U3",
+      "EDC16U31",
+      "EDC16U34",
+      "EDC16UC40",
+      "EDC16V2"
+    ],
+    "PORSCHE": [
+      "EDC16+ CP34",
+      "EDC16C0",
+      "EDC16C1",
+      "EDC16C10",
+      "EDC16C2",
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C35",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C4",
+      "EDC16C7",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16CAN",
+      "EDC16CP31",
+      "EDC16CP35",
+      "EDC16CP36",
+      "EDC16CP39",
+      "EDC16CP42",
+      "EDC16U1",
+      "EDC16U2",
+      "EDC16U2.1",
+      "EDC16U3",
+      "EDC16U31",
+      "EDC16U34",
+      "EDC16UC40",
+      "EDC16V2"
+    ],
+    "LAMBORGHINI": [
+      "EDC16+ CP34",
+      "EDC16C0",
+      "EDC16C1",
+      "EDC16C10",
+      "EDC16C2",
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C35",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C4",
+      "EDC16C7",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16CAN",
+      "EDC16CP31",
+      "EDC16CP35",
+      "EDC16CP36",
+      "EDC16CP39",
+      "EDC16CP42",
+      "EDC16U1",
+      "EDC16U2",
+      "EDC16U2.1",
+      "EDC16U3",
+      "EDC16U31",
+      "EDC16U34",
+      "EDC16UC40",
+      "EDC16V2"
+    ],
+    "BENTLEY": [
+      "EDC16+ CP34",
+      "EDC16C0",
+      "EDC16C1",
+      "EDC16C10",
+      "EDC16C2",
+      "EDC16C3",
+      "EDC16C31",
+      "EDC16C32",
+      "EDC16C34",
+      "EDC16C35",
+      "EDC16C36",
+      "EDC16C39",
+      "EDC16C4",
+      "EDC16C7",
+      "EDC16C8",
+      "EDC16C9",
+      "EDC16CAN",
+      "EDC16CP31",
+      "EDC16CP35",
+      "EDC16CP36",
+      "EDC16CP39",
+      "EDC16CP42",
+      "EDC16U1",
+      "EDC16U2",
+      "EDC16U2.1",
+      "EDC16U3",
+      "EDC16U31",
+      "EDC16U34",
+      "EDC16UC40",
+      "EDC16V2"
+    ],
+    "VOLVO": [
+      "EDC16C31",
+      "EDC16C34"
+    ],
+    "SAAB": [
+      "EDC16+ C39",
+      "EDC16C9"
+    ],
+    "LDV": [
+      "EDC16C39"
+    ],
+    "SUBARU": [
+      "EDC16C34"
+    ],
+    "MERCURY": [
+      "EDC16C39"
+    ],
+    "CADILLAC": [
+      "EDC16C39"
+    ],
+    "ROVER": [
+      "EDC16CP39"
+    ],
+    "ALPINA": [
+      "EDC16C31"
+    ],
+    "HOLDEN": [
+      "EDC16C39"
+    ],
+    "GMC": [
+      "EDC16C31"
+    ],
+    "FENDT": [
+      "EDC7UC31-EDC16U40"
+    ],
+    "CASE IH": [
+      "EDC16",
+      "EDC16C39",
+      "EDC16C8"
+    ],
+    "YANMAR": [
+      "EDC16C1"
+    ],
+    "DAF": [
+      "EDC16C39"
+    ],
+    "DEUTZ": [
+      "EDC16",
+      "EDC16U40",
+      "EDC16UC40"
+    ],
+    "NEW HOLLAND": [
+      "EDC16",
+      "EDC16C39",
+      "EDC16C8"
+    ],
+    "STEYR": [
+      "EDC16",
+      "EDC16C39",
+      "EDC16C8"
+    ],
+    "FPT INDUSTRIAL": [
+      "EDC16",
+      "EDC16C39"
+    ],
+    "KATO": [
+      "EDC16C31"
+    ],
+    "ISUZU": [
+      "EDC16C39"
+    ],
+    "IVECO": [
+      "EDC16",
+      "EDC16C39"
+    ],
+    "MITSUBISHI FUSO": [
+      "EDC16C31"
+    ],
+    "RENAULT TRUCKS": [
+      "EDC16C41"
+    ],
+    "MULTICAR": [
+      "EDC16C39"
+    ]
+  }
+}
