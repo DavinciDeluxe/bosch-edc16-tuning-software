@@ -2,8 +2,16 @@
   "family": "Bosch EDC16",
   "slug": "bosch-edc16",
   "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
-  "official_url": "https://www.davincideluxe.fr/bosch-edc16-tuning-software",
-  "file_checker_url": "https://www.davincideluxe.fr/#check-file",
+  "official_urls": [
+    "https://www.davincideluxe.fr/bosch-edc16-tuning-software",
+    "https://www.davincideluxe.org/bosch-edc16-tuning-software",
+    "https://www.davincideluxe.app/bosch-edc16-tuning-software",
+    "https://www.davincideluxe.software/bosch-edc16-tuning-software",
+    "https://www.davincideluxe.es/bosch-edc16-tuning-software",
+    "https://www.davincideluxe.de/bosch-edc16-tuning-software",
+    "https://www.davincideluxe.it/bosch-edc16-tuning-software",
+    "https://www.aesoftech.eu/bosch-edc16-tuning-software"
+  ],
   "matched_variants_count": 482,
   "brands": {
     "BMW": [
@@ -604,6 +612,9 @@
     "KATO": [
       "EDC16C31"
     ],
+    "ISUZU": [
+      "EDC16C39"
+    ],
     "IVECO": [
       "EDC16",
       "EDC16C39"
@@ -615,9 +626,6 @@
       "EDC16C41"
     ],
     "MULTICAR": [
-      "EDC16C39"
-    ],
-    "ISUZU": [
       "EDC16C39"
     ]
   }
