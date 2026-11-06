@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Bosch EDC16 ECU Calibration Software — 2nd-gen Common-Rail & PD diesel ECU (EDC16U1, EDC16U34, EDC16C34, EDC16C39, EDC16CP31/35) (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/bosch-edc16-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/bosch-edc16-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
