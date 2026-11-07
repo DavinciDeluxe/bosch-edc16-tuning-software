@@ -1,23 +1,23 @@
-# Bosch EDC16 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.44)
+# Bosch EDC16 ECU Tuning & Calibration Software — DaVinci Deluxe Cloud Edition (v1.0.45)
 
 [![Live ECU Page](https://img.shields.io/badge/Bosch%20EDC16-davincideluxe.fr-14ea63?style=for-the-badge)](https://www.davincideluxe.fr/bosch-edc16-tuning-software)
 [![Portal .org](https://img.shields.io/badge/.ORG-davincideluxe.org-00c8ff?style=for-the-badge)](https://www.davincideluxe.org/bosch-edc16-tuning-software)
 [![Portal .app](https://img.shields.io/badge/.APP-davincideluxe.app-ff007f?style=for-the-badge)](https://www.davincideluxe.app/bosch-edc16-tuning-software)
 
-**Bosch EDC16** is second-generation common-rail diesel ECU family (VAG, BMW, Mercedes, PSA, Ford, Fiat ~2003–2011). **DaVinci Deluxe Cloud Edition (v1.0.44)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch EDC16 readouts**.
+**Bosch EDC16** is second-generation common-rail diesel ECU family (VAG, BMW, Mercedes, PSA, Ford, Fiat ~2003–2011). **DaVinci Deluxe Cloud Edition (v1.0.45)** delivers automated emissions solutions (DPF, EGR, AdBlue/SCR, NOx, Flaps, Lambda), Multi-DTC table removal, Stage 1 / Stage 2 performance remapping, and automatic checksum/CVN verification for **100% virgin original Bosch EDC16 readouts**.
 
 ## 📊 Live Bosch EDC16 Variants Covered Across Brands
 
 | Brand | Bosch EDC16 Variants | Supported ECU Identifiers |
 | :--- | :---: | :--- |
-| **VOLKSWAGEN** | 34 | `EDC16+`, `EDC16+ CP34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3`, `EDC16C31` … |
-| **AUDI** | 33 | `EDC16+ CP34`, `EDC16+ U31-U34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3`, `EDC16C31` … |
-| **SKODA** | 32 | `EDC16+ CP34`, `EDC16+ U31`, `EDC16+ U31-U3`, `EDC16+ U31-U34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2` … |
-| **SEAT** | 31 | `EDC16+ CP34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3`, `EDC16C31`, `EDC16C32` … |
-| **CUPRA** | 30 | `EDC16+ CP34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3`, `EDC16C31`, `EDC16C32` … |
-| **PORSCHE** | 30 | `EDC16+ CP34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3`, `EDC16C31`, `EDC16C32` … |
-| **LAMBORGHINI** | 30 | `EDC16+ CP34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3`, `EDC16C31`, `EDC16C32` … |
-| **BENTLEY** | 30 | `EDC16+ CP34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3`, `EDC16C31`, `EDC16C32` … |
+| **VOLKSWAGEN** | 35 | `BoschEDC16U31`, `EDC16+`, `EDC16+ CP34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3` … |
+| **AUDI** | 34 | `BoschEDC16U31`, `EDC16+ CP34`, `EDC16+ U31-U34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3` … |
+| **SKODA** | 33 | `BoschEDC16U31`, `EDC16+ CP34`, `EDC16+ U31`, `EDC16+ U31-U3`, `EDC16+ U31-U34`, `EDC16C0`, `EDC16C1`, `EDC16C10` … |
+| **SEAT** | 32 | `BoschEDC16U31`, `EDC16+ CP34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3`, `EDC16C31` … |
+| **CUPRA** | 31 | `BoschEDC16U31`, `EDC16+ CP34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3`, `EDC16C31` … |
+| **PORSCHE** | 31 | `BoschEDC16U31`, `EDC16+ CP34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3`, `EDC16C31` … |
+| **LAMBORGHINI** | 31 | `BoschEDC16U31`, `EDC16+ CP34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3`, `EDC16C31` … |
+| **BENTLEY** | 31 | `BoschEDC16U31`, `EDC16+ CP34`, `EDC16C0`, `EDC16C1`, `EDC16C10`, `EDC16C2`, `EDC16C3`, `EDC16C31` … |
 | **SMART** | 13 | `EDC16C0`, `EDC16C2`, `EDC16C31`, `EDC16C31-C32`, `EDC16C31-CP31`, `EDC16C32`, `EDC16C34`, `EDC16C36` … |
 | **PEUGEOT** | 11 | `EDC16C0`, `EDC16C3`, `EDC16C31`, `EDC16C32`, `EDC16C34`, `EDC16C36`, `EDC16C39`, `EDC16CP34` … |
 | **MERCEDES-BENZ** | 10 | `EDC16C0`, `EDC16C2`, `EDC16C31-CP31`, `EDC16C32`, `EDC16C34`, `EDC16C36`, `EDC16C39`, `EDC16C6` … |
