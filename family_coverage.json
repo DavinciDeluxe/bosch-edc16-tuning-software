@@ -1,7 +1,7 @@
 {
   "family": "Bosch EDC16",
   "slug": "bosch-edc16",
-  "platform": "DaVinci Deluxe Cloud Edition v1.0.44",
+  "platform": "DaVinci Deluxe Cloud Edition v1.0.45",
   "official_urls": [
     "https://www.davincideluxe.fr/bosch-edc16-tuning-software",
     "https://www.davincideluxe.org/bosch-edc16-tuning-software",
@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-edc16-tuning-software",
     "https://www.aesoftech.eu/bosch-edc16-tuning-software"
   ],
-  "matched_variants_count": 482,
+  "matched_variants_count": 490,
   "brands": {
     "BMW": [
       "EDC16+C35",
@@ -279,6 +279,7 @@
       "EDC16C31"
     ],
     "VOLKSWAGEN": [
+      "BoschEDC16U31",
       "EDC16+",
       "EDC16+ CP34",
       "EDC16C0",
@@ -315,6 +316,7 @@
       "EDC16V2"
     ],
     "AUDI": [
+      "BoschEDC16U31",
       "EDC16+ CP34",
       "EDC16+ U31-U34",
       "EDC16C0",
@@ -350,6 +352,7 @@
       "EDC16V2"
     ],
     "SEAT": [
+      "BoschEDC16U31",
       "EDC16+ CP34",
       "EDC16C0",
       "EDC16C1",
@@ -383,6 +386,7 @@
       "EDC16V2"
     ],
     "SKODA": [
+      "BoschEDC16U31",
       "EDC16+ CP34",
       "EDC16+ U31",
       "EDC16+ U31-U3",
@@ -417,6 +421,7 @@
       "EDC16V2"
     ],
     "CUPRA": [
+      "BoschEDC16U31",
       "EDC16+ CP34",
       "EDC16C0",
       "EDC16C1",
@@ -449,6 +454,7 @@
       "EDC16V2"
     ],
     "PORSCHE": [
+      "BoschEDC16U31",
       "EDC16+ CP34",
       "EDC16C0",
       "EDC16C1",
@@ -481,6 +487,7 @@
       "EDC16V2"
     ],
     "LAMBORGHINI": [
+      "BoschEDC16U31",
       "EDC16+ CP34",
       "EDC16C0",
       "EDC16C1",
@@ -513,6 +520,7 @@
       "EDC16V2"
     ],
     "BENTLEY": [
+      "BoschEDC16U31",
       "EDC16+ CP34",
       "EDC16C0",
       "EDC16C1",
@@ -612,6 +620,9 @@
     "KATO": [
       "EDC16C31"
     ],
+    "ISUZU": [
+      "EDC16C39"
+    ],
     "IVECO": [
       "EDC16",
       "EDC16C39"
@@ -623,9 +634,6 @@
       "EDC16C41"
     ],
     "MULTICAR": [
-      "EDC16C39"
-    ],
-    "ISUZU": [
       "EDC16C39"
     ]
   }
