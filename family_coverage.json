@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-edc16-tuning-software",
     "https://www.aesoftech.eu/bosch-edc16-tuning-software"
   ],
-  "matched_variants_count": 490,
+  "matched_variants_count": 499,
   "brands": {
     "BMW": [
       "EDC16+C35",
@@ -132,7 +132,8 @@
       "EDC16C39",
       "EDC16C6",
       "EDC16CP3",
-      "EDC16CP36"
+      "EDC16CP36",
+      "edc16c2 ou c31"
     ],
     "SMART": [
       "EDC16C0",
@@ -147,7 +148,8 @@
       "EDC16C6",
       "EDC16CP3",
       "EDC16CP31",
-      "EDC16CP36"
+      "EDC16CP36",
+      "edc16c2 ou c31"
     ],
     "MAYBACH": [
       "EDC16C0",
@@ -159,7 +161,8 @@
       "EDC16C39",
       "EDC16C6",
       "EDC16CP3",
-      "EDC16CP36"
+      "EDC16CP36",
+      "edc16c2 ou c31"
     ],
     "MITSUBISHI": [
       "EDC16C31",
@@ -309,7 +312,7 @@
       "EDC16U31",
       "EDC16U31-34",
       "EDC16U31-U34",
-      "EDC16U31_CAN",
+      "EDC16U31_can",
       "EDC16U34",
       "EDC16U3X",
       "EDC16UC40",
@@ -318,6 +321,7 @@
     "AUDI": [
       "BoschEDC16U31",
       "EDC16+ CP34",
+      "EDC16+ U31-U3",
       "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
@@ -345,8 +349,8 @@
       "EDC16U1",
       "EDC16U2",
       "EDC16U3",
-      "EDC16U31",
-      "EDC16U34",
+      "EDC16U31-34",
+      "EDC16U31_can",
       "EDC16U3X",
       "EDC16UC40",
       "EDC16V2"
@@ -354,6 +358,7 @@
     "SEAT": [
       "BoschEDC16U31",
       "EDC16+ CP34",
+      "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
       "EDC16C10",
@@ -375,12 +380,12 @@
       "EDC16CP36",
       "EDC16CP39",
       "EDC16CP42",
+      "EDC16U-2.1",
       "EDC16U1",
       "EDC16U2",
-      "EDC16U2.1",
       "EDC16U3",
-      "EDC16U31",
-      "EDC16U34",
+      "EDC16U31-34",
+      "EDC16U31_can",
       "EDC16U3X",
       "EDC16UC40",
       "EDC16V2"
@@ -412,17 +417,20 @@
       "EDC16CP36",
       "EDC16CP39",
       "EDC16CP42",
+      "EDC16U-2.1",
       "EDC16U1",
       "EDC16U2",
-      "EDC16U2.1",
       "EDC16U3",
-      "EDC16U34",
+      "EDC16U31-34",
+      "EDC16U31_can",
+      "EDC16U3X",
       "EDC16UC40",
       "EDC16V2"
     ],
     "CUPRA": [
       "BoschEDC16U31",
       "EDC16+ CP34",
+      "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
       "EDC16C10",
@@ -444,18 +452,20 @@
       "EDC16CP36",
       "EDC16CP39",
       "EDC16CP42",
+      "EDC16U-2.1",
       "EDC16U1",
       "EDC16U2",
-      "EDC16U2.1",
       "EDC16U3",
-      "EDC16U31",
-      "EDC16U34",
+      "EDC16U31-34",
+      "EDC16U31_can",
+      "EDC16U3X",
       "EDC16UC40",
       "EDC16V2"
     ],
     "PORSCHE": [
       "BoschEDC16U31",
       "EDC16+ CP34",
+      "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
       "EDC16C10",
@@ -477,18 +487,20 @@
       "EDC16CP36",
       "EDC16CP39",
       "EDC16CP42",
+      "EDC16U-2.1",
       "EDC16U1",
       "EDC16U2",
-      "EDC16U2.1",
       "EDC16U3",
-      "EDC16U31",
-      "EDC16U34",
+      "EDC16U31-34",
+      "EDC16U31_can",
+      "EDC16U3X",
       "EDC16UC40",
       "EDC16V2"
     ],
     "LAMBORGHINI": [
       "BoschEDC16U31",
       "EDC16+ CP34",
+      "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
       "EDC16C10",
@@ -510,18 +522,20 @@
       "EDC16CP36",
       "EDC16CP39",
       "EDC16CP42",
+      "EDC16U-2.1",
       "EDC16U1",
       "EDC16U2",
-      "EDC16U2.1",
       "EDC16U3",
-      "EDC16U31",
-      "EDC16U34",
+      "EDC16U31-34",
+      "EDC16U31_can",
+      "EDC16U3X",
       "EDC16UC40",
       "EDC16V2"
     ],
     "BENTLEY": [
       "BoschEDC16U31",
       "EDC16+ CP34",
+      "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
       "EDC16C10",
@@ -543,12 +557,13 @@
       "EDC16CP36",
       "EDC16CP39",
       "EDC16CP42",
+      "EDC16U-2.1",
       "EDC16U1",
       "EDC16U2",
-      "EDC16U2.1",
       "EDC16U3",
-      "EDC16U31",
-      "EDC16U34",
+      "EDC16U31-34",
+      "EDC16U31_can",
+      "EDC16U3X",
       "EDC16UC40",
       "EDC16V2"
     ],
@@ -588,7 +603,6 @@
       "EDC7UC31-EDC16U40"
     ],
     "CASE IH": [
-      "EDC16",
       "EDC16C39",
       "EDC16C8"
     ],
@@ -599,29 +613,24 @@
       "EDC16C39"
     ],
     "DEUTZ": [
-      "EDC16",
       "EDC16U40",
       "EDC16UC40"
     ],
     "NEW HOLLAND": [
-      "EDC16",
       "EDC16C39",
       "EDC16C8"
     ],
     "STEYR": [
-      "EDC16",
       "EDC16C39",
       "EDC16C8"
     ],
     "FPT INDUSTRIAL": [
-      "EDC16",
       "EDC16C39"
     ],
     "KATO": [
       "EDC16C31"
     ],
     "IVECO": [
-      "EDC16",
       "EDC16C39"
     ],
     "MITSUBISHI FUSO": [
