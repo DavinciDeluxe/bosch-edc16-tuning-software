@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-edc16-tuning-software",
     "https://www.aesoftech.eu/bosch-edc16-tuning-software"
   ],
-  "matched_variants_count": 483,
+  "matched_variants_count": 491,
   "brands": {
     "BMW": [
       "EDC16+C35",
@@ -27,7 +27,8 @@
       "EDC16C31",
       "EDC16C35",
       "EDC16CP35",
-      "EDC16CP39"
+      "EDC16CP39",
+      "EDC16XY"
     ],
     "FIAT": [
       "EDC16C31-CP31",
@@ -304,6 +305,7 @@
       "EDC16C8",
       "EDC16C9",
       "EDC16CP31",
+      "EDC16CP34",
       "EDC16CP35",
       "EDC16CP36",
       "EDC16CP39",
@@ -374,6 +376,7 @@
       "EDC16C9",
       "EDC16CAN",
       "EDC16CP31",
+      "EDC16CP34",
       "EDC16CP35",
       "EDC16CP36",
       "EDC16CP39",
@@ -409,6 +412,7 @@
       "EDC16C9",
       "EDC16CAN",
       "EDC16CP31",
+      "EDC16CP34",
       "EDC16CP35",
       "EDC16CP36",
       "EDC16CP39",
@@ -442,6 +446,7 @@
       "EDC16C9",
       "EDC16CAN",
       "EDC16CP31",
+      "EDC16CP34",
       "EDC16CP35",
       "EDC16CP36",
       "EDC16CP39",
@@ -475,6 +480,7 @@
       "EDC16C9",
       "EDC16CAN",
       "EDC16CP31",
+      "EDC16CP34",
       "EDC16CP35",
       "EDC16CP36",
       "EDC16CP39",
@@ -508,6 +514,7 @@
       "EDC16C9",
       "EDC16CAN",
       "EDC16CP31",
+      "EDC16CP34",
       "EDC16CP35",
       "EDC16CP36",
       "EDC16CP39",
@@ -541,6 +548,7 @@
       "EDC16C9",
       "EDC16CAN",
       "EDC16CP31",
+      "EDC16CP34",
       "EDC16CP35",
       "EDC16CP36",
       "EDC16CP39",
