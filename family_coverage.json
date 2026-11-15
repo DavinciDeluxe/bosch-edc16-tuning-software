@@ -619,6 +619,9 @@
     "KATO": [
       "EDC16C31"
     ],
+    "ISUZU": [
+      "EDC16C39"
+    ],
     "IVECO": [
       "EDC16C39"
     ],
@@ -629,9 +632,6 @@
       "EDC16C41"
     ],
     "MULTICAR": [
-      "EDC16C39"
-    ],
-    "ISUZU": [
       "EDC16C39"
     ],
     "VOLKSWAGEN TRUCKS": [
