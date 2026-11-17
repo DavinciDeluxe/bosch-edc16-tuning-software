@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-edc16-tuning-software",
     "https://www.aesoftech.eu/bosch-edc16-tuning-software"
   ],
-  "matched_variants_count": 491,
+  "matched_variants_count": 497,
   "brands": {
     "BMW": [
       "EDC16+C35",
@@ -289,6 +289,7 @@
     "VOLKSWAGEN": [
       "EDC16+",
       "EDC16+ CP34",
+      "EDC16+ U31-U3",
       "EDC16C0",
       "EDC16C1",
       "EDC16C10",
@@ -358,6 +359,7 @@
     ],
     "SEAT": [
       "EDC16+ CP34",
+      "EDC16+ U31-U3",
       "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
@@ -428,6 +430,7 @@
     ],
     "CUPRA": [
       "EDC16+ CP34",
+      "EDC16+ U31-U3",
       "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
@@ -462,6 +465,7 @@
     ],
     "PORSCHE": [
       "EDC16+ CP34",
+      "EDC16+ U31-U3",
       "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
@@ -496,6 +500,7 @@
     ],
     "LAMBORGHINI": [
       "EDC16+ CP34",
+      "EDC16+ U31-U3",
       "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
@@ -530,6 +535,7 @@
     ],
     "BENTLEY": [
       "EDC16+ CP34",
+      "EDC16+ U31-U3",
       "EDC16+ U31-U34",
       "EDC16C0",
       "EDC16C1",
@@ -619,6 +625,9 @@
     "KATO": [
       "EDC16C31"
     ],
+    "ISUZU": [
+      "EDC16C39"
+    ],
     "IVECO": [
       "EDC16C39"
     ],
@@ -629,9 +638,6 @@
       "EDC16C41"
     ],
     "MULTICAR": [
-      "EDC16C39"
-    ],
-    "ISUZU": [
       "EDC16C39"
     ],
     "VOLKSWAGEN TRUCKS": [
