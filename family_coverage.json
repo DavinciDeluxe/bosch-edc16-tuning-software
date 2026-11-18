@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-edc16-tuning-software",
     "https://www.aesoftech.eu/bosch-edc16-tuning-software"
   ],
-  "matched_variants_count": 497,
+  "matched_variants_count": 493,
   "brands": {
     "BMW": [
       "EDC16+C35",
@@ -597,21 +597,17 @@
     "GMC": [
       "EDC16C31"
     ],
-    "FENDT": [
-      "EDC7UC31-EDC16U40"
-    ],
     "CASE IH": [
       "EDC16C39"
-    ],
-    "YANMAR": [
-      "EDC16C1"
     ],
     "DAF": [
       "EDC16C39"
     ],
-    "DEUTZ": [
-      "EDC16U40",
-      "EDC16UC40"
+    "MITSUBISHI FUSO": [
+      "EDC16C31"
+    ],
+    "IVECO": [
+      "EDC16C39"
     ],
     "NEW HOLLAND": [
       "EDC16C39"
@@ -622,26 +618,20 @@
     "FPT INDUSTRIAL": [
       "EDC16C39"
     ],
-    "KATO": [
-      "EDC16C31"
-    ],
-    "ISUZU": [
-      "EDC16C39"
-    ],
-    "IVECO": [
-      "EDC16C39"
-    ],
-    "MITSUBISHI FUSO": [
-      "EDC16C31"
-    ],
     "RENAULT TRUCKS": [
       "EDC16C41"
+    ],
+    "FENDT": [
+      "EDC7UC31-EDC16U40"
+    ],
+    "VOLKSWAGEN TRUCKS": [
+      "EDC16"
     ],
     "MULTICAR": [
       "EDC16C39"
     ],
-    "VOLKSWAGEN TRUCKS": [
-      "EDC16"
+    "KATO": [
+      "EDC16C31"
     ]
   }
 }
