@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-edc16-tuning-software",
     "https://www.aesoftech.eu/bosch-edc16-tuning-software"
   ],
-  "matched_variants_count": 493,
+  "matched_variants_count": 486,
   "brands": {
     "BMW": [
       "EDC16+C35",
@@ -78,15 +78,6 @@
       "EDC16C8",
       "EDC16C9",
       "EDC16U34",
-      "EDC16V2"
-    ],
-    "RAM": [
-      "EDC16C31-CP31",
-      "EDC16C34",
-      "EDC16C39",
-      "EDC16C8",
-      "EDC16C9",
-      "EDC16U31",
       "EDC16V2"
     ],
     "FORD": [
